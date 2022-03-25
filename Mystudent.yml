@@ -1,0 +1,16 @@
+---
+students:
+  - name: raju
+    phno: 9898989898
+    adress:
+        doorno: 101
+        street no: 100
+        pincode: 422303
+
+  - name: shiva
+    phno: 989898989
+    adress: 
+        doorno: 102
+        street no: 100
+        pincode: 422304
+             
